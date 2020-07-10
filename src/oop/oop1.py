@@ -36,7 +36,7 @@ class Airplane(FlightVehicle):
 
 # Ground Vehicles
 
-# These are the subclasses. They will hitch it's wagon onto the base class of vehicle ↓
+# These are the subclasses or aka derived classes. They will hitch their wagons onto the base class of vehicle ↓
 
 
 class GroundVehicle(Vehicle):
